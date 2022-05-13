@@ -13,6 +13,4 @@ This should return the following:
 3) You can now send any string to the /test endpoint on port 3000!
 
 ## Technologies Used
-NodeJS
-Express
-NPM
+NodeJS, Express, NPM
